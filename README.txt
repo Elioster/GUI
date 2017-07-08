@@ -1,1 +1,1 @@
-无法识别中文字符？
+this file can only use English?
